@@ -1,6 +1,3 @@
-# Програма 1: Вкладені цикли (Варіант 8)
-
-```c
 #include <stdio.h>
 #include <math.h>
 
@@ -60,4 +57,3 @@ int main(void) {
 
     return 0;
 }
-```
